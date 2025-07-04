@@ -1,13 +1,5 @@
-## Summary
-<!-- what's this PR about? -->
+## Quick summary
 
-## Changes
-- 
+write a few words about what this PR changes — it helps others review faster and understand what’s going on
 
-## Test Plan
-<!-- how did you test? -->
-
-## Checklist
-- [ ] tested locally
-- [ ] no console errors
-- [ ] ready for review
+did something unusual or worth noting? just drop a line, even a short one helps for later
