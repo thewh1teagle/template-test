@@ -1,10 +1,10 @@
 ## Quick summary
 
-i did something like...  
-(write a few words about what this PR changes to help others review faster)
+*write a few words about what this PR changes to help others review faster — delete this line before submitting*
 
-anything special or worth mentioning?  
-(just a quick note helps for later)
+i did something like...
+
+*just a quick note about anything special or worth mentioning — delete this line before submitting*
 
 ---
 
