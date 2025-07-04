@@ -5,3 +5,10 @@ i did something like...
 
 anything special or worth mentioning?  
 (just a quick note helps for later)
+
+---
+
+require special steps to test or fixing a bug? then add:
+
+**reproduce:** ... (if possible)  
+**expected after fix:** ...
