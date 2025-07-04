@@ -1,5 +1,7 @@
 ## Quick summary
 
-write a few words about what this PR changes — it helps others review faster and understand what’s going on
+i did something like...  
+(write a few words about what this PR changes to help others review faster)
 
-did something unusual or worth noting? just drop a line, even a short one helps for later
+anything special or worth mentioning?  
+(just a quick note helps for later)
